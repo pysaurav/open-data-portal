@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/open-data-portal/static/css/main.5f361e03.chunk.css",
+    "main.js": "/open-data-portal/static/js/main.43f31e8d.chunk.js",
+    "main.js.map": "/open-data-portal/static/js/main.43f31e8d.chunk.js.map",
+    "runtime-main.js": "/open-data-portal/static/js/runtime-main.28be7ba9.js",
+    "runtime-main.js.map": "/open-data-portal/static/js/runtime-main.28be7ba9.js.map",
+    "static/js/2.41398a92.chunk.js": "/open-data-portal/static/js/2.41398a92.chunk.js",
+    "static/js/2.41398a92.chunk.js.map": "/open-data-portal/static/js/2.41398a92.chunk.js.map",
+    "index.html": "/open-data-portal/index.html",
+    "precache-manifest.f157d00ebb3648a78ec7ca954e4e9c71.js": "/open-data-portal/precache-manifest.f157d00ebb3648a78ec7ca954e4e9c71.js",
+    "service-worker.js": "/open-data-portal/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/open-data-portal/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.41398a92.chunk.js.LICENSE.txt": "/open-data-portal/static/js/2.41398a92.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/open-data-portal/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28be7ba9.js",
+    "static/js/2.41398a92.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.43f31e8d.chunk.js"
+  ]
+}
