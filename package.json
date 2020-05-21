@@ -1,6 +1,6 @@
 {
   "name": "artisai",
-  "homepage": "http://pysaurav.github.io/open-data-portal",
+  "homepage": "https://pysaurav.github.io/open-data-portal/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
